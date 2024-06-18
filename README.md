@@ -10,3 +10,6 @@ Transformer GPT2 BERT Pre-training and fine-tuning
 
 
 GPT2 instruction fine-tuning
+
+
+运行环境：Google Colab
