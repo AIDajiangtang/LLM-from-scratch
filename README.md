@@ -8,8 +8,6 @@ Transformer GPT2 BERT Pre-training and fine-tuning
 
 [GPT2  Pre-training](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516557&idx=1&sn=55287163dfa7a163cb6995bc5f6f1888&chksm=c029a48af75e2d9c758d8e29e46dddda347f48309239d4ea9c20abfea3f4dd79bb88fc87ffe2#rd)<br /> 
 
-
-GPT2 instruction fine-tuning
-
+[GPT2 instruction fine-tuning](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516592&idx=1&sn=c1ab6e00703949e5d1c6bf431ff8f5e1&chksm=c029a4b7f75e2da17872e91583e9869b372df71b2c3af70d6fab48a1196768e34dbf7be0e989#rd)<br /> 
 
 运行环境：Google Colab
