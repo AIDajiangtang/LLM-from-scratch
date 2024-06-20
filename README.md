@@ -3,9 +3,7 @@ Transformer、GPT2、BERT pre-training and fine-tuning from scratch
 
 Notebooks provides model building, pre-training, and fine-tuning code.
 
-Printing logs to output data dimension information helps understand the above process.
-
-Check the blogs below.
+Printing logs to output data dimension information helps understand the above process,check the blogs below.
 
 [Transformer Pre-training](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516540&idx=1&sn=f9fbecaad37cb3a8e478a999b762c27f&chksm=c029a47bf75e2d6d56d554043564c7ae3e0e3ced9bb81affe316ee40d3624bcd844bc7582608#rd)<br /> 
 
