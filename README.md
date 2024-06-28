@@ -11,11 +11,11 @@ Printing logs to output data dimension information helps understand the above pr
 
 [LLM-from-scratch-2.图解Word2vec](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515322&idx=1&sn=4cbde7aba1303d998229a0f2372bbae3&chksm=c02999bdf75e10ab1a96b85fd3a1bc9de1df1665b10fa0b88adb143ee5c5c7909e6c38a2ed6d#rd)<br /> 
 
-[LLM-from-scratch-3.图解注意力机制](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516322&idx=1&sn=ee4660faca4c29a23d6c04d5a3f21ed0&chksm=c029a5a5f75e2cb3d4738204104a334846664981ff4374455c3556b4b2a1baaee637c5fc3731#rd)<br /> 
+[LLM-from-scratch-3.图解Transformer（一）](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515342&idx=1&sn=66b1e64ee19849d2b238e14f2942f0a9&chksm=c02999c9f75e10df8b3c5dd53cf16e7130f3a8c3bbf2208d406c94db3dd76b241ecf1371bc4a#rd)<br /> 
 
-[LLM-from-scratch-4.图解Transformer（一）](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515342&idx=1&sn=66b1e64ee19849d2b238e14f2942f0a9&chksm=c02999c9f75e10df8b3c5dd53cf16e7130f3a8c3bbf2208d406c94db3dd76b241ecf1371bc4a#rd)<br /> 
+[LLM-from-scratch-4.图解Transformer（二）](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516105&idx=1&sn=fbbb9d32f09bec5038066a4cc6dc4a8e&chksm=c0299acef75e13d8b78b957a4c0b076d48ba82764a80f055e059a707503d9aa6921948df13fe#rd)<br /> 
 
-[LLM-from-scratch-5.图解Transformer（二）](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516105&idx=1&sn=fbbb9d32f09bec5038066a4cc6dc4a8e&chksm=c0299acef75e13d8b78b957a4c0b076d48ba82764a80f055e059a707503d9aa6921948df13fe#rd)<br /> 
+[LLM-from-scratch-5.图解注意力机制](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516322&idx=1&sn=ee4660faca4c29a23d6c04d5a3f21ed0&chksm=c029a5a5f75e2cb3d4738204104a334846664981ff4374455c3556b4b2a1baaee637c5fc3731#rd)<br /> 
 
 [LLM-from-scratch-6.从零实现Transformer翻译模型](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516540&idx=1&sn=f9fbecaad37cb3a8e478a999b762c27f&chksm=c029a47bf75e2d6d56d554043564c7ae3e0e3ced9bb81affe316ee40d3624bcd844bc7582608#rd)<br /> 
 
