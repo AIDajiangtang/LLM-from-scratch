@@ -33,7 +33,7 @@ Printing logs to output data dimension information helps understand the above pr
 
 [LLM-from-scratch-13.从零实现Bert微调](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516633&idx=1&sn=d14e8e737cd2371dba54763a9d984ebe&chksm=c029a4def75e2dc8e49d29b74594acfaa2f95684dc83fb7251bc2f72f3e9d495489786048104#rd)<br /> 
 
-[LLM-from-scratch-14.从零实现GPT2任务微调](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516633&idx=1&sn=d14e8e737cd2371dba54763a9d984ebe&chksm=c029a4def75e2dc8e49d29b74594acfaa2f95684dc83fb7251bc2f72f3e9d495489786048104#rd)<br /> 
+[LLM-from-scratch-14.从零实现GPT2任务微调](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516778&idx=1&sn=a7cf95dbfa1217cc55fc8e3f695372af&chksm=c029a76df75e2e7bdd85517b2269b2cdccb4591f063589baf23bc7e2a4511bae3990490dbeaa#rd)<br /> 
 
 [LLM-from-scratch-15.大模型运行原理总结](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247514904&idx=1&sn=74e9c04483e78432c72c5a814af7fb94&chksm=c0299e1ff75e17097126fc4f8f43e0d3a290e8eb485ee790e36fe5cc37a4fe6ba3acc1b54d5b#rd)<br /> 
 
