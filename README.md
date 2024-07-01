@@ -27,13 +27,13 @@ Printing logs to output data dimension information helps understand the above pr
 
 [LLM-from-scratch-10.从零实现GPT2 RLHF](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516761&idx=1&sn=8a890ba6a39e255eaa79274dc7bedf75&chksm=c029a75ef75e2e483856c3eb795e7a3304155f6c01c8a885e9154d0c67b3512aa66e5b866a04#rd)<br /> 
 
-[LLM-from-scratch-11.图解Bert](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515347&idx=1&sn=34912271ad23b030f298fc2d4c975a3a&chksm=c02999d4f75e10c2c41dd31d36256a5d3073eb38df21a8b470dd3fc0a449eed76b3c1d519b8c#rd)<br /> 
+[LLM-from-scratch-11.从零实现GPT2任务微调](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516778&idx=1&sn=a7cf95dbfa1217cc55fc8e3f695372af&chksm=c029a76df75e2e7bdd85517b2269b2cdccb4591f063589baf23bc7e2a4511bae3990490dbeaa#rd)<br /> 
 
-[LLM-from-scratch-12.从零实现Bert预训练](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516568&idx=1&sn=64434d764342f8a2716f4cf306ec54bf&chksm=c029a49ff75e2d89d8e602f69a55fcfcb83d9808dbc36b67ed7e5ac23230272fe1aefb0c6471#rd)<br /> 
+[LLM-from-scratch-12.图解Bert](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515347&idx=1&sn=34912271ad23b030f298fc2d4c975a3a&chksm=c02999d4f75e10c2c41dd31d36256a5d3073eb38df21a8b470dd3fc0a449eed76b3c1d519b8c#rd)<br /> 
 
-[LLM-from-scratch-13.从零实现Bert微调](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516633&idx=1&sn=d14e8e737cd2371dba54763a9d984ebe&chksm=c029a4def75e2dc8e49d29b74594acfaa2f95684dc83fb7251bc2f72f3e9d495489786048104#rd)<br /> 
+[LLM-from-scratch-13.从零实现Bert预训练](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516568&idx=1&sn=64434d764342f8a2716f4cf306ec54bf&chksm=c029a49ff75e2d89d8e602f69a55fcfcb83d9808dbc36b67ed7e5ac23230272fe1aefb0c6471#rd)<br /> 
 
-[LLM-from-scratch-14.从零实现GPT2任务微调](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516778&idx=1&sn=a7cf95dbfa1217cc55fc8e3f695372af&chksm=c029a76df75e2e7bdd85517b2269b2cdccb4591f063589baf23bc7e2a4511bae3990490dbeaa#rd)<br /> 
+[LLM-from-scratch-14.从零实现Bert微调](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516633&idx=1&sn=d14e8e737cd2371dba54763a9d984ebe&chksm=c029a4def75e2dc8e49d29b74594acfaa2f95684dc83fb7251bc2f72f3e9d495489786048104#rd)<br /> 
 
 [LLM-from-scratch-15.大模型运行原理总结](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247514904&idx=1&sn=74e9c04483e78432c72c5a814af7fb94&chksm=c0299e1ff75e17097126fc4f8f43e0d3a290e8eb485ee790e36fe5cc37a4fe6ba3acc1b54d5b#rd)<br /> 
 
