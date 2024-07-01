@@ -33,24 +33,26 @@ Printing logs to output data dimension information helps understand the above pr
 
 [LLM-from-scratch-13.从零实现Bert微调](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516633&idx=1&sn=d14e8e737cd2371dba54763a9d984ebe&chksm=c029a4def75e2dc8e49d29b74594acfaa2f95684dc83fb7251bc2f72f3e9d495489786048104#rd)<br /> 
 
-[LLM-from-scratch-14.大模型运行原理总结](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247514904&idx=1&sn=74e9c04483e78432c72c5a814af7fb94&chksm=c0299e1ff75e17097126fc4f8f43e0d3a290e8eb485ee790e36fe5cc37a4fe6ba3acc1b54d5b#rd)<br /> 
+[LLM-from-scratch-14.从零实现GPT2任务微调](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516633&idx=1&sn=d14e8e737cd2371dba54763a9d984ebe&chksm=c029a4def75e2dc8e49d29b74594acfaa2f95684dc83fb7251bc2f72f3e9d495489786048104#rd)<br /> 
 
-[LLM-from-scratch-15.大模型微调汇总](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247514820&idx=1&sn=5117dc9e2506e396a6154600d99359e1&chksm=c0299fc3f75e16d5d8ab111f6f2a5d26409279516add628a4d12e6e66f3e8f7064aadfa907f7#rd)<br /> 
+[LLM-from-scratch-15.大模型运行原理总结](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247514904&idx=1&sn=74e9c04483e78432c72c5a814af7fb94&chksm=c0299e1ff75e17097126fc4f8f43e0d3a290e8eb485ee790e36fe5cc37a4fe6ba3acc1b54d5b#rd)<br /> 
 
-[LLM-from-scratch-16.大模型应用之文本分类](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515512&idx=1&sn=46154347a4417c876decff68431d5f8a&chksm=c029987ff75e1169e33ac427e9d0c8968b2c5829b2f986d5561e4c2ab0ac3a23edcfaf862dae#rd)<br /> 
+[LLM-from-scratch-16.大模型微调汇总](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247514820&idx=1&sn=5117dc9e2506e396a6154600d99359e1&chksm=c0299fc3f75e16d5d8ab111f6f2a5d26409279516add628a4d12e6e66f3e8f7064aadfa907f7#rd)<br /> 
 
-[LLM-from-scratch-17.大模型应用之情感分析](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515522&idx=1&sn=96ec980cc56e5887a695867e25ec9083&chksm=c0299885f75e1193813905cb587bdd87adacbcf576fba260411884b835d5bfedab93ecc94894#rd)<br /> 
+[LLM-from-scratch-17.大模型应用之文本分类](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515512&idx=1&sn=46154347a4417c876decff68431d5f8a&chksm=c029987ff75e1169e33ac427e9d0c8968b2c5829b2f986d5561e4c2ab0ac3a23edcfaf862dae#rd)<br /> 
 
-[LLM-from-scratch-18.大模型应用之聊天机器人](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515530&idx=1&sn=173471fc0cadee451211dff0a9026ff9&chksm=c029988df75e119bfd8923554297e389e0ceb5384f53dc1f874cab6a2c363decb42b9fe2a909#rd)<br /> 
+[LLM-from-scratch-18.大模型应用之情感分析](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515522&idx=1&sn=96ec980cc56e5887a695867e25ec9083&chksm=c0299885f75e1193813905cb587bdd87adacbcf576fba260411884b835d5bfedab93ecc94894#rd)<br /> 
 
-[LLM-from-scratch-19.大模型应用之LangChain重新教你做聊天机器人](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515554&idx=1&sn=300dc2a9e8ccb6df3d0ab30b7a7a266d&chksm=c02998a5f75e11b361e68836959fba8a6450a451f2d126236e91d6e8a67f6b033aa69da48ab7#rd)<br /> 
+[LLM-from-scratch-19.大模型应用之聊天机器人](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515530&idx=1&sn=173471fc0cadee451211dff0a9026ff9&chksm=c029988df75e119bfd8923554297e389e0ceb5384f53dc1f874cab6a2c363decb42b9fe2a909#rd)<br /> 
 
-[LLM-from-scratch-20.大模型应用之检索增强生成RAG](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515576&idx=2&sn=13fcd45392ddc923ff1228d465f10dac&chksm=c02998bff75e11a9dc2f37e5d9d4dc694b95b5d9093a4dfffd11170657f454ccc883a324d47d#rd)<br /> 
+[LLM-from-scratch-20.大模型应用之LangChain重新教你做聊天机器人](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515554&idx=1&sn=300dc2a9e8ccb6df3d0ab30b7a7a266d&chksm=c02998a5f75e11b361e68836959fba8a6450a451f2d126236e91d6e8a67f6b033aa69da48ab7#rd)<br /> 
 
-[LLM-from-scratch-21.大模型应用之微调实践](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515591&idx=1&sn=8aa54abad0c2af19d668c6318cf5d842&chksm=c02998c0f75e11d654b98699a8700aa4b0fda7a6158a6d8c9f4128878cacce39e66ee5be58c4#rd)<br /> 
+[LLM-from-scratch-21.大模型应用之检索增强生成RAG](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515576&idx=2&sn=13fcd45392ddc923ff1228d465f10dac&chksm=c02998bff75e11a9dc2f37e5d9d4dc694b95b5d9093a4dfffd11170657f454ccc883a324d47d#rd)<br /> 
 
-[LLM-from-scratch-22.大模型应用之给聊天机器人加个耳朵和嘴巴](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515597&idx=1&sn=ff9fab5a2d6ed15885813045861387ad&chksm=c02998caf75e11dc82632fe29aa6f689deb397181066f1e0315d8f3f9fcbee235366746a99b2#rd)<br /> 
+[LLM-from-scratch-22.大模型应用之微调实践](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515591&idx=1&sn=8aa54abad0c2af19d668c6318cf5d842&chksm=c02998c0f75e11d654b98699a8700aa4b0fda7a6158a6d8c9f4128878cacce39e66ee5be58c4#rd)<br /> 
 
-[LLM-from-scratch-23.大模型应用之Agent](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515785&idx=1&sn=f07ec1f9058f99636b408e96da8f49ed&chksm=c0299b8ef75e129828c66921378c7cb0de38e18bc5170eec02962eb11fb10093aff2b897990c#rd)<br /> 
+[LLM-from-scratch-23.大模型应用之给聊天机器人加个耳朵和嘴巴](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515597&idx=1&sn=ff9fab5a2d6ed15885813045861387ad&chksm=c02998caf75e11dc82632fe29aa6f689deb397181066f1e0315d8f3f9fcbee235366746a99b2#rd)<br /> 
 
-[LLM-from-scratch-24.开源大模型汇总](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516667&idx=1&sn=94474b20e8cbe3c22788218b71448f46&chksm=c029a4fcf75e2dea3038d1d6cfb1659522f8c6ee6847dbbdf55fa55cee4a9a8097dc42cf56ee#rd)<br /> 
+[LLM-from-scratch-24.大模型应用之Agent](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247515785&idx=1&sn=f07ec1f9058f99636b408e96da8f49ed&chksm=c0299b8ef75e129828c66921378c7cb0de38e18bc5170eec02962eb11fb10093aff2b897990c#rd)<br /> 
+
+[LLM-from-scratch-25.开源大模型汇总](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247516667&idx=1&sn=94474b20e8cbe3c22788218b71448f46&chksm=c029a4fcf75e2dea3038d1d6cfb1659522f8c6ee6847dbbdf55fa55cee4a9a8097dc42cf56ee#rd)<br /> 
